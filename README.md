@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Milan
-- 👀 I’m interested in MERN-G Stack Development opportunities.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on coding sessions where good amount of people can work together like kidding and working and if needed helping others and getting help from others, for better learning experience
-- 📫 Simply search "milpatel11" on any social media, or email me milpatel11@gmail.com to contact me.
+## Introduction
+Hi it's Milan Here, Nice to meet you.
 
-<!---
-milpatel11/milpatel11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+```js
+ const WORKING_WITH_ME = true;
+  const onHiringMe = () => {
+    while (WORKING_WITH_ME) {
+      alert("Have Fun");
+    }
+  }
+  ```
+
